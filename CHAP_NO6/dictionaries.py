@@ -112,8 +112,13 @@
 # one.intersection_update(two)
 # print(one)
 
-one = {1, 2, 3}
-two = {2, 3, 4}
+# one = {1, 2, 3}
+# two = {2, 3, 4}
 
-one.symmetric_difference_update(two)
-print(one)
+# one.symmetric_difference_update(two)
+# print(one)
+
+# true is the dupe of 1 and false is the dupe of 0 and also set doesnot print the same value once
+
+x =  {0,False,1,True,2,3,4}
+print(x)
