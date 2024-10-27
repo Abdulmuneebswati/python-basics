@@ -9,7 +9,7 @@ import kansas
 # for item in dir(rdm):
 #     print(item)
 
-# kansas.randomfunfact()
+kansas.randomfunfact()
 # print(dir(kansas))
 
 # for item in dir(kansas):
